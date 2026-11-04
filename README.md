@@ -1,4 +1,4 @@
-# Victor Soares de Miranda | 0xM1r4nd4
+# Victor Miranda | 0xM1r4nd4
 
 > **Analista de Sistemas & Especialista em Cibersegurança Offensive**  
 > *Transformando vulnerabilidades em inteligência e código em segurança.*
@@ -77,7 +77,5 @@ Framework ofensivo automatizado para reconhecimento de alvos web. Realiza bypass
 
 Estou aberto para oportunidades em **Desenvolvimento de Software Seguro**, **Pentest** e **Análise de Vulnerabilidades**.
 
-- 📧 **Email:** [victormiranda130925@gmail.com](mailto:victormiranda130925@gmail.com)
-- 📱 **WhatsApp:** [+55 (91) 99239-1419](https://wa.me/5591992391419)
 - 💼 **LinkedIn:** [/in/victor-miranda-130b88295](https://linkedin.com/in/victor-miranda-130b88295)
 
