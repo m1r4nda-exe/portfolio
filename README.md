@@ -2,15 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:3b0000,100:ff0033&height=230&section=header&text=0xM1r4nd4&fontSize=72&fontColor=ff0033&animation=fadeIn&fontAlignY=36&desc=%2F%2F%20HACK%20THE%20PLANET%20%2F%2F%20RED%20TEAM%20%2F%2F%20DEV&descSize=17&descColor=ff8888&descAlignY=58" width="100%"/>
 
-<!-- ========================================== -->
-<!-- INTEGRAÇÃO DO WALLPAPER / PÔSTER DA HAKAI  -->
-<!-- ========================================== -->
-<br>
-<p align="center">
-  <img src="URL_DO_SEU_WALLPAPER_AQUI" width="100%" alt="Hakai Security Wallpaper" style="border-radius: 8px; border: 1px solid #ff0033;" />
-</p>
-<br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=700&color=FF0033&center=true&vCenter=true&width=820&lines=root%40kali%3A~%23+whoami;Victor+Miranda+%7C+0xM1r4nd4;%3E+ACCESS+GRANTED+%E2%96%88;%3E+N%C3%83O+SIMULE+A+AMEA%C3%87A%2C+SEJA+A+AMEA%C3%87A" alt="Typing SVG" />
 
 ![ACCESS](https://img.shields.io/badge/ACCESS-GRANTED-ff0033?style=for-the-badge&labelColor=0a0a0a)
