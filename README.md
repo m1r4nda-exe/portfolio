@@ -5,7 +5,6 @@
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-0xM1r4nd4-black?style=for-the-badge&logo=github)](https://github.com/m1r4nda-exe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Miranda-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/victor-miranda-130b88295)
-[![Email](https://img.shields.io/badge/Email-victormiranda130925@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:victormiranda130925@gmail.com)
 
 ---
 
